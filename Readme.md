@@ -1,5 +1,8 @@
 # Employee Performance Analysis with Pandas
 
+<img src="./assets/data-pandas.webp" alt="Pandas Logo" width="300">
+
+
 ## Objective:
 
 Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv)) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand the data.
