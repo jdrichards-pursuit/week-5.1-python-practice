@@ -53,6 +53,6 @@ Write a function `advanced_employee_analysis(df)` to:
 - Find the department with the highest average `performance_score`.
 - Identify the top 3 employees with the highest `salary_per_year` and display their `name`, `department`, and `salary_per_year`.
 
-[Back to Readme](README.md)
 
-[Go To Pandas Basics Tutorial](./pandas_basics.ipynb)
+
+[Go To Pandas Basics Tutorial](https://github.com/jdrichards-pursuit/week-5.1-python-theory)
