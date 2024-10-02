@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv))
+Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv)) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand the data.
 
 ## Code
 
@@ -10,9 +10,9 @@ Place your code for this challenge in the `employee_performance_analysis.py` fil
 
 ## Dataset:
 
-The employee performance dataset is stored in a CSV file named `employee_performance.csv` in the `data` directory.
+The employee performance dataset is stored in a CSV file named [`employee_performance.csv`](./data/employee_performance.csv) in the `data` directory.
 
-**Note:** If you can't remember how to complete any of the steps, check out the [Pandas Basics Tutorial](./pandas_basics.ipynb) for a refresher. Try not to use AI for this, use the documentation for [Pandas](https://pandas.pydata.org/docs/) or do the research online. If you do use AI, create prompts that check for understanding and avoid simply giving you the answer.
+**Note:** If you can't remember how to complete any of the steps, check out the [Pandas Basics Tutorial](https://github.com/jdrichards-pursuit/week-5.1-python-theory) for a refresher. Try not to use AI for this, use the lesson, documentation for [Pandas](https://pandas.pydata.org/docs/) or do the research online. If you do use AI, create prompts that check for understanding and avoid simply giving you the answer.
 
 ## Steps:
 
