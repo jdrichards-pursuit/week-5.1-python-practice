@@ -11,7 +11,7 @@ Your task is to analyze our company's employee performance dataset using Pandas.
 
 ## Data:
 
-Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv)) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand the data.
+Before you begin to analyze the data, take a look at the [employee_performance.csv](./data/employee_performance.csv)) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand our company's employee performance data.
 
 ## Code
 
