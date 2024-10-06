@@ -78,7 +78,8 @@ Write a function `plot_salary_vs_years_of_experience(df)` to plot a scatter plot
 
 
 
+### Resources
 
 [Pandas Documentation](https://pandas.pydata.org/docs/)
-
+[Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 [Go To Pandas Basics Tutorial](https://github.com/jdrichards-pursuit/week-5.1-python-theory)

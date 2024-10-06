@@ -14,7 +14,6 @@ def main():
     #print(f'5. Find the top 3 employees with the highest salary \n')
     #print(top_3_employees_with_highest_salary(df))
 
-    
     #print(f'6. Average performance score by department \n')
     #print(avg_performance_score_by_department(df))
 
