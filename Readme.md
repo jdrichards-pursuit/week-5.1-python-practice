@@ -9,7 +9,7 @@ Analyze the employee performance dataset using Pandas to perform data loading, e
 
 ## Code
 
-Place your code for this challenge in the `employee_performance_challenge.py` file. The functions have been called for you in the main function. You only need to write the functions then uncomment the print statements to see the output.
+Place your code for this challenge in the `employee_performance_challenge.py` file. The functions have been called for you in the `main` function in the file. You only need to write the functions above the `main` function. Then uncomment the print statements in the `main` function to see the output.
 
 ## Dataset:
 
