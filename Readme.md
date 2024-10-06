@@ -23,6 +23,12 @@ The employee performance dataset is stored in a CSV file named [`employee_perfor
 
 Write a function `load_employee_data()` to load the dataset into a Pandas DataFrame.
 
+### 1.1. Convert all column names to lowercase
+
+Use the `df.columns = df.columns.str.lower()` to convert all column names to lowercase.
+
+This will make it easier to work with the data in the rest of the challenge.
+
 ### 2. Explore the DataFrame:
 
 Write a function `explore_employee_dataframe(df)` to:
@@ -35,7 +41,7 @@ Write a function `explore_employee_dataframe(df)` to:
 
 Write a function `select_and_filter_employee_data(df)` to:
 
-- Select the `name` and `department` columns.
+- Select the 'employee_id', 'first_name', 'last_name', and 'performance_score' columns.
 - Filter employees with a `performance_score` greater than 80.
 - Use `loc` to select specific rows and columns.
 
@@ -43,16 +49,27 @@ Write a function `select_and_filter_employee_data(df)` to:
 
 Write a function `employee_data_operations(df)` to:
 
-- Add a new column `salary_per_year` calculated as `salary / years_at_company`.
+- Add a new column `salary_per_year` that displays the salary based on the number of years the employee has worked at the company.
 - Sort the DataFrame by `performance_score` in descending order.
 
-### 5. Advanced Tasks:
 
-Write a function `advanced_employee_analysis(df)` to:
+### 5. Find the top 3 employees with the highest salary
 
-- Find the department with the highest average `performance_score`.
-- Identify the top 3 employees with the highest `salary_per_year` and display their `name`, `department`, and `salary_per_year`.
+Write a function `top_3_employees_with_highest_salary(df)` to:
+
+- Sort the DataFrame by `salary` in descending order.
+- Select the top 3 employees.
+- Display their `fist_name`, `last_name` and `email`, and `salary. Salary should be rounded to 2 decimal places.
 
 
+### 7. Calculate the average performance score by department
+
+Write a function `avg_performance_by_department(df)` to calculate the average performance score by department.
+
+- Display the average performance score for each department.
+
+
+
+[Pandas Documentation](https://pandas.pydata.org/docs/)
 
 [Go To Pandas Basics Tutorial](https://github.com/jdrichards-pursuit/week-5.1-python-theory)
