@@ -2,8 +2,14 @@
 
 <img src="./assets/data-pandas.webp" alt="Pandas Logo" width="300">
 
+**Welcome to the Data Department!** I'm excited to have you join our team. Given your strong performance in your previous role, I'm confident you'll excel here as well. To help you get up to speed with our data analysis tools and processes, I'm assigning you a project that will introduce you to Pandas, a crucial library for data manipulation in Python.
 
-## Objective:
+## Project Objective
+Your task is to analyze our company's employee performance dataset using Pandas. This project will help you familiarize yourself with essential data analysis techniques while providing valuable insights for our HR department.
+
+
+
+## Data:
 
 Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv)) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand the data.
 
