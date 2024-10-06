@@ -62,9 +62,9 @@ Write a function `top_3_employees_with_highest_salary(df)` to:
 - Display their `fist_name`, `last_name` and `email`, and `salary. Salary should be rounded to 2 decimal places.
 
 
-### 7. Calculate the average performance score by department
+### 6. Calculate the average performance score by department
 
-Write a function `avg_performance_by_department(df)` to calculate the average performance score by department.
+Write a function `avg_performance_score_by_department(df)` to calculate the average performance score by department.
 
 - Display the average performance score for each department.
 
