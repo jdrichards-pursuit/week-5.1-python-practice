@@ -1,6 +1,6 @@
 
 def main():
-    # Print out your functions in this main function to see if they work
+    # Uncomment each function one by one to see the output
 
     #print(f'2. Explore the DataFrame \n')
     #print(explore_employee_dataframe(df))
@@ -10,9 +10,6 @@ def main():
 
     #print(f'4. Perform Data Operations: \n')
     #print(employee_data_operations(df))
-
-
-
 
     #print(f'5. Find the top 3 employees with the highest salary \n')
     #print(top_3_employees_with_highest_salary(df))
