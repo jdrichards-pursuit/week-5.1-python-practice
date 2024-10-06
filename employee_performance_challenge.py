@@ -17,7 +17,8 @@ def main():
     #print(f'6. Average performance score by department \n')
     #print(avg_performance_score_by_department(df))
 
-  
+    #print(f'7. Plot a scatter plot of salary vs years_at_company \n')
+    #print(plot_salary_vs_years_of_experience(df))
 
 if __name__ == "__main__":
     main()
