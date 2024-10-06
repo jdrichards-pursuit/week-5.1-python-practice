@@ -68,6 +68,15 @@ Write a function `avg_performance_score_by_department(df)` to calculate the aver
 
 - Display the average performance score for each department.
 
+### 7. Plot a scatter plot of salary vs years_at_company
+
+Write a function `plot_salary_vs_years_of_experience(df)` to plot a scatter plot of salary vs years_at_company. 
+
+- use plt.scatter to plot the data
+- use plt.show to display the plot
+
+
+
 
 
 [Pandas Documentation](https://pandas.pydata.org/docs/)
