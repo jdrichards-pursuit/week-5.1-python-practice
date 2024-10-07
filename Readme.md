@@ -13,9 +13,30 @@ Your task is to analyze our company's employee performance dataset using Pandas.
 
 Before you begin to analyze the data, take a look at the [employee_performance.csv](./data/employee_performance.csv) as well as the [data-dictionary.md](./data/data-dictionary.md) to understand our company's employee performance data.
 
-## Code
+## Code Guidelines
 
-Place your code for this challenge in the `employee_performance_challenge.py` file. The functions have been called for you in the `main` function in the file. You only need to write the functions above the `main` function. Then uncomment the print statements in the `main` function to see the output.
+1. Implement your solution in the `employee_performance_challenge.py` file.
+
+2. Write your functions above the `main` function. The following functions need to be implemented:
+   - `load_employee_data()`
+   - `explore_employee_dataframe(df)`
+   - `select_and_filter_employee_data(df)`
+   - `employee_data_operations(df)`
+   - `top_3_employees_with_highest_salary(df)`
+   - `avg_performance_score_by_department(df)`
+   - `plot_salary_vs_years_of_experience(df)`
+
+3. The `main` function is already provided and contains calls to your functions.
+
+4. To test your implementation:
+   - Uncomment the print statements in the `main` function.
+   - Run the script to see the output.
+
+5. Do not modify the `main` function itself; only implement the required functions above it.
+
+## Note
+
+Ensure your functions match the expected names and signatures as they are already being called in the `main` function.
 
 ## Dataset:
 
