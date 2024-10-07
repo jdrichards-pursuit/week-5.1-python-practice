@@ -30,7 +30,7 @@ Before you begin to analyze the data, take a look at the [employee_performance.c
 
 4. To test your implementation:
    - Uncomment the print statements in the `main` function.
-   - Run the script to see the output. `python3 employee_performance_challenge.py`
+   - Run the script in the terminal to see the output using `python3 employee_performance_challenge.py`.
 
 5. Do not modify the `main` function itself; only implement the required functions above it.
 
