@@ -37,3 +37,5 @@ Here are snapshots of expected outputs for the project.
 ### 6. Plotting Salary vs Years of Experience
 
 ![Plotting Salary vs Years of Experience](./assets/scatter-plot-years-salary.png)
+
+[Return to README](./Readme.md)
