@@ -86,7 +86,7 @@ Write a function `top_3_employees_with_highest_salary(df)` to:
 
 - Sort the DataFrame by `salary` in descending order.
 - Select the top 3 employees.
-- Display their `fist_name`, `last_name` and `email`, and `salary. Salary should be rounded to 2 decimal places.
+- Display their `first_name`, `last_name` and `email`, and `salary. Salary should be rounded to 2 decimal places.
 
 
 ### 6. Calculate the average performance score by department
