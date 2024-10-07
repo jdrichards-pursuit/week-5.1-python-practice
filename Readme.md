@@ -103,7 +103,9 @@ Write a function `plot_salary_vs_years_of_experience(df)` to plot a scatter plot
 - use plt.show to display the plot
 
 
+### Output Snapshots
 
+You can see the output snapshots in the [output-snapshots.md](./output-snapshots.md) file.
 
 ### Resources
 
