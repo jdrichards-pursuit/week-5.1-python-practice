@@ -8,6 +8,10 @@
 Your task is to analyze our company's employee performance dataset using Pandas. This project will help you familiarize yourself with essential data analysis techniques while providing valuable insights for our HR department.
 
 
+## Environment Setup
+
+If you need a reference for setting up your workspace and virtual environment please refer to the [Python Workspace Setup](https://github.com/jdrichards-pursuit/python-virtual-environment-setup)
+
 
 ## Data:
 
